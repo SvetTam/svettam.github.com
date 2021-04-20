@@ -2,7 +2,9 @@
 title: "svettam's website"
 author: "Svet Tam"
 date: "20/04/2021"
-output: html_document
+output: 
+  html_document:
+    theme: spacelab
 ---
 
 ```{r setup, include=FALSE}
