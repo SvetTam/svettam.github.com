@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## About
 
-Describe who you are. For example, what you are currently studying.
+Describe who you are. For example, what you are currently studying. Little change.
 
 Summarize your trajectory. You could mention what you've done. Like what you've stud\
 ied or where you've worked.
